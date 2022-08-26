@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 028f6fd4b5648da408750b332adcc576, type: 3}
+  m_Name: TestLanguage
+  m_EditorClassIdentifier: 
+  languages:
+  - Eng
+  - Rus
+  - Ukr
+  words:
+  - phrases:
+    - langName: Eng
+      phrase: Change Language
+    - langName: Rus
+      phrase: "\u0421\u043C\u0435\u043D\u0438\u0442\u044C \u044F\u0437\u044B\u043A"
+    - langName: Ukr
+      phrase: "\u0417\u043C\u0456\u043D\u0438\u0442\u0438 \u043C\u043E\u0432\u0443 "
+    key: _Change
+    hide: 1
+  - phrases:
+    - langName: Eng
+      phrase: Hight Score
+    - langName: Rus
+      phrase: "\u0420\u0435\u043A\u043E\u0440\u0434"
+    - langName: Ukr
+      phrase: "\u0420\u0435\u043A\u043E\u0440\u0434 "
+    key: _Hight
+    hide: 1
+  - phrases:
+    - langName: Eng
+      phrase: Choose
+    - langName: Rus
+      phrase: "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435"
+    - langName: Ukr
+      phrase: "\u0412\u0438\u0431\u0440\u0430\u0442\u0438"
+    key: _Choose
+    hide: 1
+  - phrases:
+    - langName: Eng
+      phrase: Chosen
+    - langName: Rus
+      phrase: "\u0412\u044B\u0431\u0440\u0430\u043D\u043D\u044B\u0439"
+    - langName: Ukr
+      phrase: "\u041E\u0431\u0440\u0430\u043D\u0438\u0439"
+    key: _Chossen
+    hide: 1
+  - phrases:
+    - langName: Eng
+      phrase: Back
+    - langName: Rus
+      phrase: "\u041D\u0430\u0437\u0430\u0434"
+    - langName: Ukr
+      phrase: "\u041D\u0430\u0437\u0430\u0434"
+    key: _Back
+    hide: 1

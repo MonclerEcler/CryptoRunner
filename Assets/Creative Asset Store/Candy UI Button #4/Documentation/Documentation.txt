@@ -1,0 +1,16 @@
+Thankyou so much for supporting us, by buy our game asset. 
+here we will bring a little guide, how you can edit the file of our source. 
+
+1. you can edit the file on Casual UI Buttons #1\Resources\PSD\Original_Version.psd
+2. make sure you are install photoshop
+3. you can check on the layer there is ICON, where you want to add another icon you can put it right here. 
+4. if you want to edit the ui, you can go to Design Master to edit color or other things. 
+5. if you have done, you can export it. 
+6. if you want to use it easly, we alraedy export the button on the Sprite Folder Highrest Version, 512, 256, 128, 64, 32px (246 icons in total)
+
+For more details please visit : https://linktr.ee/creativeassetstore
+
+If you have any questions or have better suggestions about this asset, please contact us immediately. 
+Thanks. 
+
+Support : creativeassetstore@gmail.com
